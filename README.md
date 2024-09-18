@@ -30,4 +30,4 @@ Este é um programa em Python que simula operações bancárias básicas via con
 1. Clone este repositório ou copie o código para um arquivo Python (`.py`).
 2. Execute o programa no terminal com o comando:
    ```bash
-   python nome_do_arquivo.py
+   main.py
